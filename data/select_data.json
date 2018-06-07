@@ -1,0 +1,22 @@
+{
+  "country": {
+    "USA": ["Arizona", "Pennsylvania", "Ohio", "Nevada", "Wisconsin", "North Carolina", "Illinois"],
+    "Canada": ["Ontario", "Quebec"],
+    "Germany": ["Baden-Wurttemberg"],
+    "Scotland": ["Edinburgh"]
+  },
+  "state": {
+    "Arizona": "AZ",
+    "Pennsylvania": "PA",
+    "Ohio": "OH",
+    "Nevada": "NV",
+    "Wisconsin": "WI",
+    "North Carolina": "NC",
+    "Illinois": "IL",
+    "Ontario": "ON",
+    "Quebec": "QC",
+    "Baden-Wurttemberg": "BW",
+    "Edinburgh": "EDH"
+  },
+  "categories": ["Restaurants", "Indian", "American", "Chinese", "Thai", "American (Traditional)", "American (New)", "Bakeries", "Bars", "Breakfast & Brunch", "Burgers", "Cafes", "Canadian (New)", "Coffee & Tea", "Desserts", "Fast Food", "Italian", "Mexican", "Nightlife", "Pizza", "Pubs", "Seafood" ]
+}
