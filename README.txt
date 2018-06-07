@@ -7,8 +7,18 @@ Dataset is available at https://www.yelp.com/dataset/download
 
 We used the SQL version to perform operations required in our project since the size of the dataset is huge (7GB).
 
-### For the submission purpose we have exported the final table after performing the necessary operations in a txt file
-which is imported in the main.py file.
+
+#########################
+## Project Discription ##
+########################
+
+We present a system wherein our users can get a list of restaurants by choosing a particular location
+
+They can also choose restaurants based on a particular cuisine. For e.g. Indian food in Phoenix, AZ
+
+Our application will provide them with a list of best restaurants along with their addresses and their open/close status
+
+
 
 ##################
 ## Dependencies ##
@@ -37,14 +47,4 @@ pymysql - for MySQL python bridge (One doesn't need to install pymysql since dat
 
 
 ##############################
-
-For any queries, please email us, we are happy to answer any questions you have.
-
-arai02@syr.edu
-skumar12@syr.edu
-gdeshmuk@syr.edu
-jgbansal@syr.edu
-
-
-Thank you.
 
